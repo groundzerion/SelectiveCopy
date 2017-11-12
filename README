@@ -1,0 +1,10 @@
+Copy files with particular extension type from source directory to target directory
+
+USAGE:
+
+python selcopy.py extension source_directory target_directory
+
+EXAMPLE:
+
+python selcopy.py txt /home/directory1 /home/directory2 
+
